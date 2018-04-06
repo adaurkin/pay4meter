@@ -30,11 +30,12 @@ for BlockchainFounder Hackaton Moscow 31.03-01.04.18
 ## Ссылки
 
   - [Презентация проекта][Pres]
-  - [Видео-демонстрация работы][Video]
+  - [Выступление][Pitch]
+  - [Видео-демонстрация работы прототипа][Video]
 
 
 [//]: #Линки
 
    [Pres]: <Pay4Meter.pdf>
-   [Video]: <demo.mp4>
-
+   [Pitch]: <https://youtu.be/cyLFqvepQBw?t=4923>
+   [Video]: <demo.mp4?raw=true>
